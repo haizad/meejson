@@ -1,4 +1,4 @@
-# Mau DB
+# MauDB
 # DYNAMIC JSON OUTPUT
 
 JSON OUTPUT STRUCTURE
@@ -6,6 +6,6 @@ JSON OUTPUT STRUCTURE
 <a href="http://rimaudb.com">Website Link</a><br>
 
 # Usage
-
+# 1. Register MauDB 
 
 
